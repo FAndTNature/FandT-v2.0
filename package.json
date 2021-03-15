@@ -7,7 +7,8 @@
     "start": "node Backend/server",
     "server": "nodemon Backend/server",
     "client": "npm start --prefix frontend",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "heroku-postbuild": "npm install --prefix frontend && npm run build --prefix frontend"
   },
   "author": "Utkarsh Singh",
   "license": "ISC",
