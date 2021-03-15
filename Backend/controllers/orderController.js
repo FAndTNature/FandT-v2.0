@@ -1,5 +1,5 @@
 const asyncHandler = require('express-async-handler')
-const Order = require('../models/orderModel')
+const Order = require('../model/orderModel')
 
 const addOrderItems = asyncHandler(async(req, res) => {
     const { orderItems, shippingAddress, paymentMethod, itemsPrice, shippingPrice, taxPrice, totalPrice } = req.body
