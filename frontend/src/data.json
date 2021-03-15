@@ -1,0 +1,96 @@
+{
+    "Header": {
+
+        "title": "From And To Nature.",
+        "paragraph": "Lets fight against plastic together! Why chose plastic when u have cooler and ethnic option."
+
+    },
+    "About": {
+        "paragraph": "F&T Nature is an revolutionalising Start-up in Bottled water industry, bringing an eco-friendly Plastic Free alternative to have safe drinking sealed water at economical prices. We package our drinking water in all natural 100% biodegradable bamboo bottles and deliver through convenient innovative channels.",
+        "Why": [
+            "Eco friendly",
+            "Economical",
+            "Biodegradable",
+            "Ethnic"
+        ],
+        "Why2": [
+            "Handcrafted",
+            "Awesome designs",
+            "Long shelf life"
+        ]
+    },
+    "Services": [{
+            "icon": "fas fa-cart-arrow-down",
+            "name": "Kamandal",
+            "text": "Your own customised eco-friendly bamboo bottle. Lets fight against plastic together! Do your part against plastic! Why chose plastic when u have cooler and ethnic option"
+        },
+        {
+            "icon": "fab fa-wordpress",
+            "name": "V-vend",
+            "text": "Look out for our vending machines, have water in an eco friendly manner. We sell drinking water, not plastic."
+        },
+        {
+            "icon": "fas fa-university",
+            "name": "Institutional",
+            "text": "do you want plastic or just water? We serve at your favourite locations."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/team/01.jpg",
+            "text": "\"Being native to Uttarakhand and having seen heaps of plastic waste everywhere, hill stations, treks, religious places, anywhere and everywhere a human goes. We realized something has to be done and this started as a social project in early 2020. F&T Nature is now an incubated start-up at UCIE, UPES. From a simple question of “why not”, passionate team of students and mentors constructed a solution to the plastic waste from single use PET plastic bottles. Having qualified multiple events and received overwhelming response from all he stakeholders, we are now working towards our final stage of testing, certifications and getting ready to do our part.\"",
+            "name": "Paurush Dobhal"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Paurush Dobhal",
+            "job": "CEO & Founder"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Tanmay Benjwal",
+            "job": "Technical Support"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Vibhor Singh",
+            "job": "Software developer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Utkarsh Singh",
+            "job": "Software developer"
+        }
+    ],
+    "Contact": {
+        "address": "UCIE, 1st floor Energy Acres, UPES, BIDHOLI, via, Prem Nagar, Dehradun, Uttarakhand 248007",
+        "phone": "+91-7014662503",
+        "email": "fandtnature@gmail.com",
+        "instagram": "https://www.instagram.com/fandt_nature/",
+        "twitter": "https://twitter.com/FandTNature1",
+        "linkedin": "/fandt-nature-560447204/",
+        "facebook":"https://www.facebook.com/paurush.dobhal"
+    },
+    "Features": [{
+            "icon": "fas fa-comments",
+            "title": "Chat support",
+            "text": ""
+        },
+        {
+            "icon": "fas fa-bullhorn",
+            "title": "Genuine products",
+            "text": ""
+        },
+        {
+            "icon": "fas fa-hands",
+            "title": "Handcrafted",
+            "text": ""
+        },
+        {
+            "icon": "fas fa-magic",
+            "title": "Awesome designs/ customisable",
+            "text": ""
+        }
+    ]
+}
